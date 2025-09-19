@@ -7,10 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilsonho&label=Profile%20views&color=0e75b6&style=flat" alt="adilsonho" /> </p>
 
-<p aligh="center"> studying Systems Analysis and
- Development, I am in the 3rd semester now, currently focused on
- programming, in front-end field, css, html and Javascript, also having
- applied logic in some backend languages Like C, C# and python </p>
+<p aligh="center"> Dedicated and detail-oriented Java Technical Support Specialist with strong expertise in Object-Oriented Programming (OOP) and troubleshooting. Skilled in reading and debugging Java code to identify and resolve technical issues efficiently. Solid background in Computer Science and hands-on experience with SQL databases and Linux environments. Committed to delivering high-quality support and collaborating with teams to solve complex problems. </p>
  
 - 🔭 I’m currently working on Pokedex project from Dio. [pokedex](https://github.com/digitalinnovationone/js-developer-pokedex)
 - 💬 Ask me about **Javascript**
