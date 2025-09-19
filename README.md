@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?fit=750%2C422&ssl=1" alt="adilsonho" /> </p>
+<p align="left"> <img src="[https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?fit=750%2C422&ssl=1](https://miro.medium.com/v2/1*QcYy0zkkCvmY2NJ-OdnHVA.png)" alt="adilsonho" /> </p>
 
 <h1 align="center">Hi 👋, I'm Adilson Holandez</h1>
 <h3 align="center">A passionate Backend developer</h3> 
